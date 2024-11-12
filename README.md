@@ -8,6 +8,11 @@ Este projeto tem como intuito trazer informações para uma posterior análise d
 
 Puxei os dados de uma única tabela chamada de "n_movies" na extensão .csv com as seguintes colunas:
 
+![Dados](https://github.com/user-attachments/assets/d7d81096-a4b1-403e-b99e-6927f9cce28e)
+
+<br>
+<br>
+
 <h3>title</h3>
 Essa coluna contém os dados referentes ao nome dos títulos (filmes, séries, doramas, etc.
 
@@ -180,19 +185,11 @@ Logo após criada eu faço a relação da tabela <b>"dAno"</b> com a tabela <b>"
 <br>
 <br>
 
-Com os dados limpos e as medidas fundamentais para a criação dos meus gráficos, agora sim posso partir para criar a minha primeira página de Dashboard.
+Com os dados limpos e as medidas fundamentais para a criação dos meus gráficos já criadas, posso partir para criação da minha primeira página de Dashboard.
 
-
-
-
-
-
-
-
-
-
-
-
+<hr>
+<br>
+<br>
 
 <h1>Página Inicial</h1>
 
@@ -556,6 +553,7 @@ Agora quando passa o mouse em cima da bolha no gráfico, o Tooltip aparece da se
 <hr>
 <br>
 <br>
+
 
 
 
