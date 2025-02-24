@@ -2,7 +2,7 @@
 
 <br>
 
-<h2><a href="https://app.powerbi.com/groups/me/reports/e71db363-e2b0-4147-8e87-68c43e37e3a7/ecae17acacc2d71c9722?experience=power-bi"> Acesse o Dashboard </a> </h2>
+<h2><a href="https://app.powerbi.com/view?r=eyJrIjoiMzRiMjRlY2ItOTZmOS00YTc0LWIzODktODdhYjFiYzEzZjUxIiwidCI6IjBjM2IyYzljLWVlYTctNDJlZi04YTYzLTcwOWIyNjU5NzYxOCJ9"> Acesse o Dashboard </a> </h2>
 
 <hr>
 
